@@ -12,6 +12,6 @@
 
 <div>  
   <a href="https://github.com/Vasini25?tab=repositories">
-    <h3>Click here to see my REPOs</h3>
+    <strong>Click here to see my REPOs</strong>
   </a>
 </div>
