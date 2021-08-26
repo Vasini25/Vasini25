@@ -12,7 +12,7 @@
 
 <div>  
   <a href="https://github.com/Vasini25?tab=repositories">
-    <strong>Click here to see my REPOs</strong>
+    <strong>Click here to see my REPOs 💾</strong>
   </a>
 </div>
 
